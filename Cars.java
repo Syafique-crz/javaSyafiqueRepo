@@ -10,6 +10,7 @@ public class Cars {
 
     }
     public void displayCarDetails(){
+
         System.out.println("Car model is:" + carModel );
         System.out.println("Car Maker is:" + carMaker);
         System.out.println("Car Price is :RM" + carPrice);
